@@ -3,8 +3,8 @@ Twitter üzerinden hashtag ve profil verileri alınabilen uygulama.
 
 # React ile Twitter Api Projesi
 
--Axios API ile Twitter bilgileri Rapidapi üzerinden, https://rapidapi.com/omarmhaimdat/api/twitter154/ adresinden çekildi. (Projeyi kullanmak için Api Key alınız..)
-
+-Axios API ile Twitter bilgileri Rapidapi üzerinden çekildi. (Projeyi kullanmak için Api Key alınız..) (https://rapidapi.com/omarmhaimdat/api/twitter154/)
+ 
 -Proje'de UseState ve UseEffect hookları kullanıldı.
 
 
